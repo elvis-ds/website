@@ -1,5 +1,5 @@
 import React from "react";
-import { ParallaxBanner } from 'react-scroll-parallax';
+// import { ParallaxBanner } from 'react-scroll-parallax';
 
 function About() {
 
