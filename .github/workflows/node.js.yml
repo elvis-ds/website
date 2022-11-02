@@ -29,5 +29,6 @@ jobs:
     - run: npm ci
     # - run: npm install react-scripts react-scroll-parallax tailwindcss postcss autoprefixer
     - run: npm run build --if-present
+    - run: npm deploy
     # Commenting out the test sequence as no real tests here
     ##- run: npm test
