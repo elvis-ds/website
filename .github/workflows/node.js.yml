@@ -26,7 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    # - run: npm ci
+    - run: npm ci
     # - run: npm install react-scripts react-scroll-parallax tailwindcss postcss autoprefixer
     - run: npm run build --if-present
     # Commenting out the test sequence as no real tests here
