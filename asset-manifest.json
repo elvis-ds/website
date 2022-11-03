@@ -1,15 +1,15 @@
 {
-  "main.css": "/website/static/css/main.c1de5602.chunk.css",
-  "main.js": "/website/static/js/main.d375afbc.chunk.js",
-  "main.js.map": "/website/static/js/main.d375afbc.chunk.js.map",
-  "static/js/1.4ccff42d.chunk.js": "/website/static/js/1.4ccff42d.chunk.js",
-  "static/js/1.4ccff42d.chunk.js.map": "/website/static/js/1.4ccff42d.chunk.js.map",
-  "static/js/2.6014cee5.chunk.js": "/website/static/js/2.6014cee5.chunk.js",
-  "static/js/2.6014cee5.chunk.js.map": "/website/static/js/2.6014cee5.chunk.js.map",
-  "runtime~main.js": "/website/static/js/runtime~main.e49aa2fb.js",
-  "runtime~main.js.map": "/website/static/js/runtime~main.e49aa2fb.js.map",
-  "static/css/main.c1de5602.chunk.css.map": "/website/static/css/main.c1de5602.chunk.css.map",
-  "index.html": "/website/index.html",
-  "precache-manifest.c037dcb46bd54a40cf184703919d4911.js": "/website/precache-manifest.c037dcb46bd54a40cf184703919d4911.js",
-  "service-worker.js": "/website/service-worker.js"
+  "main.css": "/lighthouse/static/css/main.c1de5602.chunk.css",
+  "main.js": "/lighthouse/static/js/main.d375afbc.chunk.js",
+  "main.js.map": "/lighthouse/static/js/main.d375afbc.chunk.js.map",
+  "static/js/1.4ccff42d.chunk.js": "/lighthouse/static/js/1.4ccff42d.chunk.js",
+  "static/js/1.4ccff42d.chunk.js.map": "/lighthouse/static/js/1.4ccff42d.chunk.js.map",
+  "static/js/2.6014cee5.chunk.js": "/lighthouse/static/js/2.6014cee5.chunk.js",
+  "static/js/2.6014cee5.chunk.js.map": "/lighthouse/static/js/2.6014cee5.chunk.js.map",
+  "runtime~main.js": "/lighthouse/static/js/runtime~main.8e734ed2.js",
+  "runtime~main.js.map": "/lighthouse/static/js/runtime~main.8e734ed2.js.map",
+  "static/css/main.c1de5602.chunk.css.map": "/lighthouse/static/css/main.c1de5602.chunk.css.map",
+  "index.html": "/lighthouse/index.html",
+  "precache-manifest.bf5c7a7402bdf1727890c108fa226c42.js": "/lighthouse/precache-manifest.bf5c7a7402bdf1727890c108fa226c42.js",
+  "service-worker.js": "/lighthouse/service-worker.js"
 }
