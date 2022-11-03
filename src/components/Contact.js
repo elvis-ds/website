@@ -11,9 +11,10 @@ function Contact() {
     return (
         <section id="contact" className="relative">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-                <div className="flex flex-col w-full mb-20">
+                <div className="flex flex-col w-full">
                     <ChatBubbleOvalLeftIcon className="mx-auto inline-block w-10 mb-4" />
-                    <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-black">
+                    {/* <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-black"> */}
+                    <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
                         Contact Us
                     </h1>
                 </div>

@@ -84,3 +84,21 @@ export const testimonials = [
     "image": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d2/Artemis.png"
   }
 ]
+
+
+export const skills = [
+  'Microsoft Azure',
+  'Amazon Web Services',
+  'Google Cloud Platform',
+  'Apache Airflow',
+  'Python',
+  'Javascript',
+  'Snowflake',
+  'Databricks',
+  'PowerShell',
+  'ReactJS',
+  'Continuous Integration',
+  'Continuous Deployment',
+  'Power Platform',
+  'PyTorch'
+]
