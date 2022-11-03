@@ -85,6 +85,64 @@ export const testimonials = [
   }
 ]
 
+export const competencies_a = [
+  {
+    "name": "Microsoft Azure",
+    "subtitle": "",
+  },
+  {
+    "name": "Amazon Web Services",
+    "subtitle": "",
+  },
+  {
+    "name": "Google Cloud Platform",
+    "subtitle": "",
+  },
+  {
+    "name": "Python",
+    "subtitle": "",
+  },
+  {
+    "name": "Apache Airflow",
+    "subtitle": "",
+  },
+  {
+    "name": "Databricks",
+    "subtitle": "",
+  },
+]
+
+export const competencies_b = [
+  
+  {
+    "name": "Snowflake",
+    "subtitle": "",
+  },
+  {
+    "name": "PowerShell",
+    "subtitle": "",
+  },
+  {
+    "name": "Azure DevOps",
+    "subtitle": "",
+  },
+  {
+    "name": "Power BI",
+    "subtitle": "",
+  },
+  {
+    "name": "Power Platform",
+    "subtitle": ""
+  },
+  {
+    "name": "Tableau",
+    "subtitle": "",
+  },
+  {
+    "name": "ReactJS",
+    "subtitle": "",
+  },
+]
 
 export const skills = [
   'Microsoft Azure',

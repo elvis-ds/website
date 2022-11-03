@@ -11,6 +11,7 @@ import Navbar from './components/Navbar';
 import Services from './components/Services';
 import Competencies from './components/Competencies';
 import Testimonials from './components/Testimonials';
+import CompentenciesMarquee from './components/CompetenciesMarquee';
 
 
 
@@ -24,6 +25,7 @@ function App() {
         <About />
         <Services />
         <Competencies />
+        <CompentenciesMarquee />
         <Testimonials />
         <Contact />
       </main>
