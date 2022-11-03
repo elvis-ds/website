@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/lighthouse/static/js/runtime~main.8e734ed2.js"
   },
   {
-    "revision": "51d71a981c73e28be2fffb780bf98ae7",
+    "revision": "ac1db98d7f1fb56d63a935b2f3a97b84",
     "url": "/lighthouse/index.html"
   }
 ];
