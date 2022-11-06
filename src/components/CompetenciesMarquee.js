@@ -21,49 +21,51 @@ export default function Compentencies() {
                     Peruse the leading, scalable cloud services and frameworks that we love being steeped in.
                 </p>
             </div>
-            <Marquee play="false" pauseOnClick="false" direction="left">
-                <div className="flex flex-nowrap m-4 mb-2">
-                    {competencies_a.map((comp) => (
-                        <div className="p-4 md:w-1/2 max-w-sm object-center item-center">
-                            <div className="h-full bg-slate-700 /*bg-opacity-40*/ p-8 rounded-lg flex-nowrap">
-                                <img
-                                    alt="testimonial"
-                                    src={"images/competencies/".concat(comp.name.replaceAll(' ', '-').toLowerCase(), ".png")}
-                                    // className="w-12 flex-shrink-0 object-cover object-center"
-                                    className="w-12 object-center"
-                                />
-                                <div className="items-center">
-                                    <span className="font-medium text-white">
-                                        {comp.name}
-                                    </span>
+            <ul>
+                <li>
+                    <Marquee play="false" pauseOnClick="false" direction="left" speed="70">
+                        <div className="flex flex-nowrap m-4">
+                            {competencies_a.map((comp) => (
+                                <div className="p-4 md:w-1/2 w-full">
+                                    <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded text-center">
+                                        <img className="m-auto w-12"
+                                            src={"images/competencies/".concat(comp.name.replaceAll(' ', '-').toLowerCase(), ".png")}
+                                            alt="Sunset in the mountains" />
+                                        <div className="px-6 py-2">
+                                            <div className="text-xs text-white">
+                                            {comp.subtitle}
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
+                            ))}
                         </div>
-                    ))}
-                </div>
-            </Marquee>
-            
-            <Marquee play="false" pauseOnClick="false" direction="right">
-                <div className="flex flex-nowrap m-4 mb-2">
-                    {competencies_b.map((comp) => (
-                        <div className="p-4 md:w-1/2 max-w-sm item-center">
-                            <div className="h-full bg-slate-700 /*bg-opacity-40*/ p-8 rounded-lg">
-                                <img
-                                    alt="testimonial"
-                                    src={"images/competencies/".concat(comp.name.replaceAll(' ', '-').toLowerCase(), ".png")}
-                                    // className="w-12 flex-shrink-0 object-cover object-center"
-                                    className="w-12 object-center"
-                                />
-                                <div className="inline-flex items-center">
-                                    <span className="title-font font-medium text-white">
-                                        {comp.name}
-                                    </span>
+                    </Marquee>
+                </li>
+                <li>
+                    <Marquee play="false" pauseOnClick="false" direction="right" speed="70">
+                        <div className="flex flex-nowrap m-4">
+                            {competencies_b.map((comp) => (
+                                <div className="p-4 md:w-1/2 w-full">
+                                    <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded text-center">
+                                        <img className="m-auto w-12"
+                                            src={"images/competencies/".concat(comp.name.replaceAll(' ', '-').toLowerCase(), ".png")}
+                                            alt="Sunset in the mountains" />
+                                        <div className="px-6 py-2">
+                                            <div className="text-xs text-white">
+                                                {comp.subtitle}
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
+                            ))}
                         </div>
-                    ))}
-                </div>
-            </Marquee>
+                    </Marquee>
+                </li>
+            </ul>
+
+
+
 
         </section>
 

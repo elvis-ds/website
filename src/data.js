@@ -88,60 +88,72 @@ export const testimonials = [
 export const competencies_a = [
   {
     "name": "Microsoft Azure",
-    "subtitle": "",
+    "subtitle": "Azure",
   },
   {
     "name": "Amazon Web Services",
-    "subtitle": "",
+    "subtitle": "Amazon Web Services",
   },
   {
     "name": "Google Cloud Platform",
-    "subtitle": "",
+    "subtitle": "Google Cloud Platform",
   },
   {
     "name": "Python",
-    "subtitle": "",
+    "subtitle": "Python",
   },
   {
     "name": "Apache Airflow",
-    "subtitle": "",
+    "subtitle": "Apache Airflow",
   },
   {
     "name": "Databricks",
-    "subtitle": "",
+    "subtitle": "Databricks",
   },
+  {
+    "name": "Microsoft SQL Server",
+    "subtitle": "SQL Server",
+  },
+  {
+    "name": "Microsoft Dot Net",
+    "subtitle": "Dot Net Core",
+  }
 ]
 
 export const competencies_b = [
   
   {
     "name": "Snowflake",
-    "subtitle": "",
+    "subtitle": "Snowflake",
   },
   {
     "name": "PowerShell",
-    "subtitle": "",
+    "subtitle": "PowerShell",
   },
   {
     "name": "Azure DevOps",
-    "subtitle": "",
+    "subtitle": "Azure DevOps",
   },
   {
     "name": "Power BI",
-    "subtitle": "",
+    "subtitle": "Power BI",
   },
   {
     "name": "Power Platform",
-    "subtitle": ""
+    "subtitle": "Power Platform"
   },
   {
     "name": "Tableau",
-    "subtitle": "",
+    "subtitle": "Tableau",
   },
   {
     "name": "ReactJS",
-    "subtitle": "",
+    "subtitle": "ReactJS",
   },
+  {
+    "name": "GitHub",
+    "subtitle": "GitHub",
+  }
 ]
 
 export const skills = [

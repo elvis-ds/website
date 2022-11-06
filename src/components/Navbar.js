@@ -1,5 +1,6 @@
 import React from "react";
 import { ArrowRightIcon } from "@heroicons/react/24/solid";
+import { Link } from "react-router-dom"
 
 
 export default function Navbar() {
@@ -27,6 +28,7 @@ export default function Navbar() {
                         Contact Us
                         <ArrowRightIcon className="w-4 h-4 ml-1"/>
                     </a>
+                    {/* <Link to="/test">Sandbox</Link> */}
                 </nav>
             </div>
         </header>
