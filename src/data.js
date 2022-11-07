@@ -85,7 +85,7 @@ export const testimonials = [
   }
 ]
 
-export const competencies_a = [
+export const skills_a = [
   {
     "name": "Microsoft Azure",
     "subtitle": "Azure",
@@ -120,7 +120,7 @@ export const competencies_a = [
   }
 ]
 
-export const competencies_b = [
+export const skills_b = [
   
   {
     "name": "Snowflake",

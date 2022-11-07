@@ -361,6 +361,9 @@ module.exports = {
       DEFAULT: '1',
     },
     fontFamily: {
+      neue: [
+        'Neue Haas Grotesk Display Pro'
+      ],
       sans: [
         'ui-sans-serif',
         'system-ui',
