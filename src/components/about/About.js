@@ -16,7 +16,7 @@ function About() {
                             src="images/logo.png"
                         />
                     </div>
-                    <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium font-title text-sky-600 px-6 font-neue">
+                    <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium font-title text-sky-600 px-6">
                         Lighthouse Analytics
                     </h1>
                 </div>

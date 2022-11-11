@@ -17,7 +17,9 @@ function App() {
   return (
 
     <ParallaxProvider>
-      <main className="text-gray-400 /*bg-gray-900*/ body-font font-neue">
+      {/* <main className="text-gray-400 bg-gray-900 body-font font-neue"> */}
+      <main className="text-gray-400 body-font font-Inter">
+      {/* <main className="text-gray-400 bg-gray-900 body-font"> */}
         <Navbar />
         {/* <Sandbox /> */}
         <About />
